@@ -20,7 +20,7 @@ Please ensure the files are all downladed into the same root direcotry, this wil
 
 ## Road Map
 
-I would like to add some more features in the future, like having the route highlight the steet path the bus takes..
+I would like to take the locations from the API as opposeed to keeping it in the script..
 
 ## Languages Used
 
