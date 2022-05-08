@@ -18,7 +18,7 @@ Thanks for taking interest in my repo! If you would like to download this conten
 
 Please ensure the files are all downladed into the same root direcotry, this will allow you to deploy it locally and interact with the webpage as if it were hosted on Pages.
 
-To run this application locally you will need top do the following:
+To run this application locally you will need to do the following:
 
 1. Download or clone the repo into a direcotry of your choosing
 2. Navigate to that direcotry and open file: "index.html" in your browser of choice.
