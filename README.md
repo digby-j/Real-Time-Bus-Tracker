@@ -1,12 +1,12 @@
 # Real-Time-Bus-Tracker
-Realtime Bus Tracker using Asynchronous calls, JavaScript, API and other technologies to simulate real time bus tracking
+Realtime Bus Tracker using Asynchronous calls, JavaScript, API the DOM, and other technologies to simulate real time bus tracking
 
 ## Introduction
 
-This repo explores javascript functionality with arrays and setTimeout, on click a pacman icon will move across the screen, then change directions when it detects the edge of the screen.
+Using Asynchronous Programming Techniques, grids, DOM and multiple APIs, one can simulate bus tracking in the browser. Utilising API from Mapbox, we can display a map in browser. On top of that, using API from MBTA - Massachusetts Bay Transportation Authority we can extrapolate bus routes for our use case. Using Asynchronous Programming Techniques we can query the API from MBTA witout getting blocked by the provider. We can then extrapolate this data and track a marker accross Longitude and Latitude with the DOM.
 
 Thanks for your Interest! 😎
-- You can see it, live, [here](https://digby-j.github.io/Real-TimeBus-Tracker/)
+- You can see it, live, [here](https://digby-j.github.io/Real-Time-Bus-Tracker/)
 
 - You can also check out my other projects and about me [here](https://github.com/digby-j)
 
@@ -17,6 +17,12 @@ Thanks for your Interest! 😎
 Thanks for taking interest in my repo! If you would like to download this content please do so, you can find instructions below. If you wish to fork this content please consider Staring the repo.
 
 Please ensure the files are all downladed into the same root direcotry, this will allow you to deploy it locally and interact with the webpage as if it were hosted on Pages.
+
+To run this application locally you will need top do the following:
+
+1. Download or clone the repo into a direcotry of your choosing
+2. Navigate to that direcotry and open file: "index.html" in your browser of choice.
+3. Once loaded, click the button in the top right to watch the marker move along the bus route.
 
 ## Road Map
 
